@@ -251,6 +251,15 @@ make debug      # debug modda derle
 make clean      # temizle
 ```
 
+
+**YASAL UYARI/DISCLAIMER;** 
+
+**Bu yazılım tamamen kişisel eğitim, açık kaynak geliştirme ve yerel ağ testleri amacıyla yazılmıştır!**
+
+**Yazılımın (Gecedpi) herhangi bir ağ üzerinde kullanımı, yapılandırılması veya yerel servis sağlayıcı kurallarına etkisi tamamen kullanıcının kendi sorumluluğundadır. Geliştirici; bu aracın kullanımı, kötüye kullanımı veya olası ağ/yasal ihlaller nedeniyle doğabilecek hiçbir hukuki, idari veya teknik sorumluluğu kabul etmez. Depodaki kodları klonlayan, derleyen veya kullanan herkes bu şartları peşinen kabul etmiş sayılır.**
+
+
+
 ---
 
 ## Teşekkür/Credits.
