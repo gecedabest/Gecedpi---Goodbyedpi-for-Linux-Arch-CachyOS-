@@ -10,7 +10,7 @@
 - **DNS koruması** — DNS sorgularını nftables ile **Cloudflare (1.1.1.1)** üzerinden yönlendirir; ISP'nin DNS engellemesini/yönlendirmesini aşar.
 - **SNI-DPI geçişi** — TLS ClientHello'yu (SNI dahil) küçük parçalara bölüp sahte paketlerle karıştırır; DPI imzayı okuyamaz.
 - **systemd servisi** — Açılışta otomatik başlar, çökerse kendini yeniden test edip kaldığı yerden devam eder.
-- Tüm Türkiye ISP'leri (Türk Telekom, Turkcell, Vodafone, SuperOnline) için çalışma hedeflidir.
+- Tüm Türkiye ISP'leri (Türk Telekom, Turkcell, Vodafone, SuperOnline) için çalışma **hedeflidir** (garanti her koşulda yoktur.)
 
 ---
 
