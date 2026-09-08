@@ -263,9 +263,9 @@ make clean      # temizle
 ---
 
 ## Teşekkür/Credits.
-@salihkahveci090 -- linux versiyonunu gördüğüm adam.
-
-@cagritaskn -- goodbyedpi projesini ülkemize göre ayarlayıp olayını türkiyeye taşıyan imparator
+* [@salihkahveci090](https://github.com/salihkahveci090) -- linux versiyonunu gördüğüm adam.
+* 
+* [@cagritaskn](https://github.com/cagritaskn) -- goodbyedpi projesini ülkemize göre ayarlayıp olayını türkiyeye taşıyan imparator
 
 Açık kaynak topluluğundaki tüm DPI çalışmalarına teşekkür ederiz. Bu proje, Linux/NFQUEUE tabanlı DPI geçiş yaklaşımını sistematik olarak uygular.
 
