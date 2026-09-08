@@ -1,7 +1,6 @@
 # GeceDPI Turkey - Linux
 
-> Türkiye'de ISP tarafından engellenen sitelere (Discord, YouTube vb.) **VPN'siz** erişim sağlayan DPI geçiş aracı.
-> VPN-less DPI bypass for Turkey ISPs. Linux (Arch / CachyOS / systemd tabanlı dağıtımlar).
+> Türkiye'de ISP tarafından engellenen sitelere (Discord, Roblox vb.) **VPN'siz** nin engelini bertaraf etmeyi sağlayan bir araç
 
 ---
 
