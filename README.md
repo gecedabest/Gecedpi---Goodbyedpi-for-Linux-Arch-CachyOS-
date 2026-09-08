@@ -61,7 +61,7 @@ sudo bash service_install_dnsredir_turkey.sh
 
 ### Yöntem 2: Release binary
 
-1. [Releases](https://github.com/gecedabest/gecedpi/releases) sayfasından `gecedpi-linux-x86_64` indirin.
+1. [Releases](https://github.com/gecedabest/Gecedpi---Goodbyedpi-for-Linux-Arch-CachyOS-) sayfasından `gecedpi-linux-x86_64` indirin.
 2. Yerleştirip kurun:
 ```bash
 git clone https://github.com/gecedabest/gecedpi
