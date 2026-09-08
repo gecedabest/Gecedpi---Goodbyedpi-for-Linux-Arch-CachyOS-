@@ -263,7 +263,7 @@ make clean      # temizle
 ---
 
 ## Teşekkür/Credits.
-* [@salihkahveci090](https://github.com/salihkahveci090) -- linux versiyonunu gördüğüm adam.
+* [@salihkahveci090](https://github.com/salihkahveci090) -- linux versiyonunu yapan (en azından benim ilk gördüğüm adam).
 * 
 * [@cagritaskn](https://github.com/cagritaskn) -- goodbyedpi projesini ülkemize göre ayarlayıp olayını türkiyeye taşıyan imparator
 
