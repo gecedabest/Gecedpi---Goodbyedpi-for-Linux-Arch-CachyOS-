@@ -57,7 +57,6 @@ make
 sudo bash service_install_dnsredir_turkey.sh
 ```
 
-> Çalıştırılamazsa `SENIN-KULLANICI-ADIN` değerini repo sahibiyle değiştirin veya release olarak indirin.
 
 ### Yöntem 2: Release binary
 
