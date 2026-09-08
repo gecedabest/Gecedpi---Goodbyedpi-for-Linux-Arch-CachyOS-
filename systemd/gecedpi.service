@@ -1,0 +1,25 @@
+# Referans şablon: kurulum scripti (service_install_dnsredir_turkey.sh)
+# bu dosyayı /etc/systemd/system/gecedpi.service olarak SENİN kurulum yolunla
+# yeniden üretir. Elle kullanmak istersen ExecStart'taki yolu kendine göre düzelt.
+[Unit]
+Description=GeceDPI Turkey - Linux DPI Bypass (Otomatik Mod)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+Environment=DNS_REDIR=1
+ExecStartPre=/usr/local/sbin/gecedpi-nft-load.sh
+ExecStart=/home/kira/Desktop/gecedpi/bin/gecedpi --auto --queue-num 0
+ExecStopPost=-/usr/sbin/nft delete table inet gecedpi
+Restart=on-failure
+RestartSec=5
+User=root
+CapabilityBoundingSet=CAP_NET_ADMIN CAP_NET_RAW
+AmbientCapabilities=CAP_NET_ADMIN CAP_NET_RAW
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=gecedpi
+
+[Install]
+WantedBy=multi-user.target
